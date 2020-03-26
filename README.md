@@ -3,7 +3,7 @@ Intel RealSense camera code for D435 depth camera and T265 tracking camera
 
 ## Current setup for D435 and T265 on USB3 powered hub
 ```
-rs-enumerate-devices 
+$ rs-enumerate-devices 
 
 Device info: 
     Name                          : 	Intel RealSense D435
